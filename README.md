@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <h1 align="center">Hi 👋, I'm Arpit Nagar</h1>
-<h3 align="center">A passionate DevOps Enginner from Canada</h3>
+<h3 align="center">A passionate DevOps Engineer from Canada</h3>
 
 <div align="center">
 <img width="100%" height = "250px" src="https://miro.medium.com/v2/resize:fit:1400/1*5kTaMPB5tDEBerSRL0GFeA.gif" />
